@@ -1,2 +1,2 @@
-# Machine-learning-project
+# sentiment anallysis
 my personal implementations
